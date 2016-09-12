@@ -1,0 +1,249 @@
+#+STARTUP inlineimages
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://doc.norang.ca/org.css" />
+* Brain Tumors
+- Ken Cohen, JHU
+** Neuroanatomy
+Three main areas to know:
+- Supratentatorial
+- Infratentatorial
+- Sellar
+#+CAPTION: Basic neuroanatomy
+#+NAME:   fig:neuroanatomy
+[[./neuroanatomy.png]]
+** Brain tumor classification
+*** Tumors of Neuroepithelial Tissue (WHO)
+- Astrocytic Tumors
+  - Pilocytic Astrocytoma (most common)
+- Oligodendroglial tumors
+  -
+- Oligoastrocytic tumors
+- Ependymal Tumors
+- Choroid plexus tumors
+- Other
+- Neuronal and mixed neuronal-glial tumors
+- Tumor of the pineal region
+- Embryonal tumors
+*** Cell type of origin classification
+**** Primary cell types
+- Neuroglial cells
+  - Astrocytes
+  - Oligodendrocytes
+  - Ependyma
+  - Choroid plexus
+- Neuronal/Embryonal Cells
+- Other stuff (microglia)
+*** Low grade vs High Grade "Gliomas"
+Gliomas are a broad group of tumors. In pediatrics, "gliomas"=="astrocytomas"
+- Gliomas == Astrocytomas in pediatrics
+  - Pylocytic ("low grade", WHO 1)
+  - Fibrillary or infiltrative
+    - diffuse fibrillary ("low grade", WHO 2)
+    - Anaplastic ("High Grade", WHO 3)
+    - GBM ("High Grade", WHO 4)
+WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no WHO 2 Pilocytic, for example).  Higher WHO is associated with worse prognosis, largely.
+*** Topographic classification
+- Embryonal tumors
+  - Pineal region: Pineoblastoma
+  - Cerebellum: Medulloblastoma
+  - Cerebrum: Supratentorial PNET
+*** Diagnoses by location
+- Infratentorial (about 2/3 of pediatric brain tumors)
+  - Medulloblastoms
+  - Pilocytic astrocytoma
+  - Ependymoma
+  - DIPG
+  - AT/RT
+- Sellar
+  - Craniopharyngioma
+  - Adenoma
+  - Hamartoma
+  - Pilocytic Astrocytoma
+  - Germ cell tumors
+  - PNET
+  - Langerhans (stalk)
+- Thalamus
+  - AA/GBM
+  - Pilocytic Astro
+  - Teratoma
+  - PNET
+- Pineal
+  - Pineoblastoma
+  - Germ cell tumors
+  - Pineal cyst
+  - PNET
+  - Astrocytomas
+- Hemispheres
+  - Gliomas, both low and high grade
+  - PNET
+  - AT/RT
+  - Ependymoma
+  - Choroid plexus tumors (choroid plexus produces CSF, in all ventricles)
+- Optic Pathway
+  - Pilocytic
+  - RB
+** Symptoms and diagnosis
+#+CAPTION: Papilledema
+#+NAME:   fig:papilledema
+[[papilledema.jpg]]
+
+- Generalized symptoms
+  - ...
+- Increased ICP
+  - Parinaud syndrome (can't look up)
+  - Papilledema
+  - ...
+  - Others (anisocoria, ataxia, head tilt)
+- Localizing signs
+  - Depends on location
+  - Cranial neuropathies (visual loss, head tilt, nystagmus, diplopia, proptosis)
+  - Hemiparesis/Hemisensory loss
+  - Ataxia
+  - Early handedness/change in handedness
+  - Seizures
+** Treatment overview
+#+CAPTION: Overview of brain tumor Rx
+#+NAME:   fig:braintumorRx
+[[braintumorRx.png]]
+- Neurosurgery
+  - Generally, needed, at least for biopsy
+  - DIPG is a radiographic diagnosis
+  - Most NG-GCT Dx is made based on CSF tumor markers
+- Radiation
+  - Potentially utilized for ALL CNS tumors
+  - exceptions include low grade gliomas (initially) and choroid plexus papillomas
+  - full dose = ~5400-5940 cGy
+  - Craniospinal irradiation = ~1800-3600 cGy
+- Chemo
+  - Used as adjuvant therapy in most cases
+  - Particularly useful for Germ cell tumors and Embryonal tumors
+  - Used with little kids IN PLACE OF XRT, though this is inferior when used
+
+** The tumors
+*** Medullo
+    - Synonyms: Cerebellar PNET
+    - Histo: SRBCT; different forms have different outcomes, so histology is useful.
+    - Clinical presentation
+      - Raised ICP (headache, vomiting)
+      - Ataxia
+      - Brainstem findings (sometimes)
+    - Metastatic potential: Yes
+      - Neuraxis (so must do spinal MRI, maybe CSF)
+      - Systemic spread very rare
+    - Risk classification
+|Features | Standard | High |
+|---+---+---|
+|Resection | <1.5 cm3 residual | >1.5 cm3 residual |
+| M-staging | No mets | M+ |
+| Histology |   | Anaplasia |
+    - Genetics
+      - Wnt group (children/adults) - Excellent prognosis
+      - Sonic Hedgehog group (can include infants) - Fair 
+      - Group 3 (i17q, MYC amp)
+      - Group 4 (CDK4 amp, MYCN amp)
+    - Imaging
+      - brightly enhancing Midline mass, but lateralizes as you get older
+      - A lateral mass in a younger kid is likely an ependymoma
+    - Rx
+      - Standard risk (>70% EFS)
+        - Cut it out
+        - 2340 cGy
+        - Cisplatin/CCNC/VCR or Cisplatin/CTX/VCR
+      - High risk (20%-70% EFS, depending on risk factors)
+        - Cut it out
+        - Craniospinal radiation (3600 cGy)
+  - Ependymoma (common location)
+    - Clinical presentation
+      - Can occur throughout CNS
+      - Symptoms depend on location, often on floor of fourth ventrical
+      - Raised ICP, especially for 4th ventrical tumors
+    - Metastatic potential: Yes
+      - Neuraxis
+    - Staging: MRI brain/spine, CSF cytopathology, not clear whether anaplasia affects prognosis
+    - Imaging:
+#+CAPTION: Ependymoma imaging
+#+NAME:   fig:ependymoma
+[[ependymoma.png]]
+    - Rx
+      - Aggressive upfront resection (GTR "required")
+      - Non-met tumors (70% EFS):
+        - Focal XRT
+        - Role of chemo uncertain
+      - Met tumors (bad EFS):
+        - Focal XRT and CSI (craniospinal)
+        - Maybe chemo
+  - Cerebellar astrocytome (usually pilocytic)
+  - Atypical Teratoid/Rhabdoid Tumor (increasingly recognized)
+*** Brain stem tumors
+  - Almost any brain tumor histology CAN occur in the brain stem
+  - Need to be able to distinguish between DIPG and low grade astrocytoma
+  - DIPG
+    - Technically is an anaplastic astrocytoma of fibrillary type in the brain stem
+    - Synonyms: "Brain stem glioma" (though most gliomas of the brain stem are not DIPG
+    - Met Potential: No
+    - Staging:
+      - MRI of the brain only (if classic on imaging)--tend NOT to enhance
+      - biopsy for atypical imaging features
+    - Lab features will reveal diffuse astrocytoma of WHO 2, 3, or 4 (though prognosis is the same--all die).
+    - Imaging
+      - diffuse pontine tumor encasing (but not obstructing) the basilar artery)
+    - Rx
+      - No curative therapy
+      - XRT is routinely used for disease stabilization
+      - No role for chemo
+    - Pointers:
+      - There is a difference between "intrinsic pontine glioms" and Exophytic brain stem glioma
+      - Exophytic BSGs are usually pilocytic astrocytomas with much better prognosis
+      - PAs in the brain stem brightly enhance on post-gad MRI and are often in other of brain stem areas besides pons
+      - DIPG tends not to enhance, while PAs tend to enhance post-gad
+*** Pilocytic astrocytomas
+  - Can occur anywhere in CNS, but common locations are:
+    - Cerebellum (cerebellar astrocytoma)
+    - Optic pathway (optic pathway glioma)
+    - hypothalamus
+    - brain stem
+    - spinal cord
+  - very slow growing
+  - synonyms: astrocytoma (WHO 1), "low grade" glioma (not precise, though)
+  - clinical presentation: location dependent
+  - Met: Not really
+  - staging: MRI, brain, spine
+  - Laboratory features: BRAF mutations (V600E) and relevance for therapy, if present
+  - Imaging:
+#+CAPTION: Pilocytic astrocytoma with enhancing nodule and cystic mass
+#+NAME:   fig:pilo
+[[pilo.png]]
+  - Rx:
+    - Dependent on location
+    - GTR is curative (cerebellar) and no further Rx needed
+    - If GTR is not possible (optic pathway, hypothalamic [midline] tumors):
+      - observation in few cases
+      - Best effort resection then chemo/rad
+  - Pointers:
+    - Can occur anywhere
+    - GTR is usually curative
+    - Optic pathway tumors associate with NF-1 and often should be left alone
+*** AA and GBM 
+  - synonyms: Astrocytoma (WHO 3 and 4), high-grade gliomas
+  - Clinical: variable, headaches, seizures due to ST predilection
+  - Met: No (mainly no)
+  - Staging: MRI brain/spine
+  - Lab features: MGMT promoter methylation increasingly assayed (may be useful to know about for TMZ use)
+  - Rx:
+    - Best effort resection
+    - Focal XRT, but hard to define because these tend to be very diffuse
+    - Alkylators: TMZ or BCNU or CCNU
+  - ~15-30% EFS
+  - Pointers
+    - No chemo except alkylating agents (nitrosureas and TMZ) are helpful
+    - Anaplastic Astrocytoma is a spectrum disease, so some lower grade (WHO2) may do OK. Need to ask pathologist for "how much" AA is the patient.
+*** Germinoma
+  - synonyms: non-secreting GCT
+  - clinical:
+    - suprasellar: DI, panhypopituitarism
+    - pineal: parinauds (can't look up, raised ICP)
+  - met: Yes
+  - staging
+    - biopsy needed for diagnosis
+    - MRI brain, spine, CSF pathology
+  - lab: CSF markers (AFP/beta-HCG) should be negative.
+
