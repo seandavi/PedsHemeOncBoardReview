@@ -119,7 +119,7 @@ WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no
   - Used with little kids IN PLACE OF XRT, though this is inferior when used
 
 ** The tumors
-*** Medullo
+*** TODO Medullo FILL IN GENETICS
     - Synonyms: Cerebellar PNET
     - Histo: SRBCT; different forms have different outcomes, so histology is useful.
     - Clinical presentation
@@ -127,7 +127,7 @@ WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no
       - Ataxia
       - Brainstem findings (sometimes)
     - Metastatic potential: Yes
-      - Neuraxis (so must do spinal MRI, maybe CSF)
+      - Neuraxis (so must do spinal MRI either preop or more than 10 days postop, spinal CSF at least 10 days after resection due to risk of herniation)
       - Systemic spread very rare
     - Risk classification
 |Features | Standard | High |
@@ -140,14 +140,16 @@ WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no
       - Sonic Hedgehog group (can include infants) - Fair 
       - Group 3 (i17q, MYC amp)
       - Group 4 (CDK4 amp, MYCN amp)
+Molecular diagnostics have identified four major subgroups for medulloblastoma with differences in age of presentation, histopathologic features, and prognosis. The presence of nuclear beta-catenin staining, coupled with monosomy 6, supports the diagnosis of Wnt-positive medulloblastoma, which carries an excellent prognosis with almost all children successfully treated with standard-of-care therapy. Myc overexpression is most commonly seen in the group 3 subtype and carries a poor prognosis.
     - Imaging
       - brightly enhancing Midline mass, but lateralizes as you get older
       - A lateral mass in a younger kid is likely an ependymoma
     - Rx
       - Standard risk (>70% EFS)
         - Cut it out
-        - 2340 cGy
+        - CSI 2340 cGy with boost to 5400 cGy to tumor bed
         - Cisplatin/CCNC/VCR or Cisplatin/CTX/VCR
+The standard of care for children with “standard risk” medulloblastoma (defined as a near total resection of the tumor with no evidence of neuraxis dissemination and no evidence of large-cell/anaplastic phenotype) currently is craniospinal irradiation (current standard 2,340 cGy) with a boost to the tumor bed to a total dose of approximately 5,400 cGy. In most centers, vincristine is given on a weekly basis during irradiation. Following irradiation, adjuvant chemotherapy is given, which is generally a combination of cisplatin/CCNU/vincristine or cisplatin/cyclophophamide/vincristine. This approach leads to long-term event-free survival (EFS) of > 80% in such patients.
       - High risk (20%-70% EFS, depending on risk factors)
         - Cut it out
         - Craniospinal radiation (3600 cGy)
@@ -166,7 +168,7 @@ WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no
     - Rx
       - Aggressive upfront resection (GTR "required")
       - Non-met tumors (70% EFS):
-        - Focal XRT
+        - Focal XRT ONLY, as CSI does not show benefit
         - Role of chemo uncertain
       - Met tumors (bad EFS):
         - Focal XRT and CSI (craniospinal)
@@ -190,6 +192,7 @@ WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no
       - No curative therapy
       - XRT is routinely used for disease stabilization
       - No role for chemo
+    - Progonosis: death within 6mos to 2 years in all cases
     - Pointers:
       - There is a difference between "intrinsic pontine glioms" and Exophytic brain stem glioma
       - Exophytic BSGs are usually pilocytic astrocytomas with much better prognosis
@@ -243,7 +246,267 @@ WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no
     - pineal: parinauds (can't look up, raised ICP)
   - met: Yes
   - staging
-    - biopsy needed for diagnosis
+    - ~biopsy needed for diagnosis~
     - MRI brain, spine, CSF pathology
+    - 10% of of germinomas can be pineal and suprasellar (multifocal)
   - lab: CSF markers (AFP/beta-HCG) should be negative.
+  - Rx 
+    - At least whole ventricular XRT
+    - +/- chemo
+    - If presented with DI or panhypopit, will not recover that function
+*** NG-GCT
+  - synonyms: secreting GCT
+  - clinical: all maybes: Precocious puberty , DI, panhypopit, raised ICP
+  - Met: can
+  - staging:
+    - MRI brain/spine
+    - no biopsy if markers (AFP/beta-HCG elevated)
+  - Rx
+    - harder to treat than germinoma
+    - XRT includes CSI
+    - Second look surgery may be needed if markers still up
+  - 40-70% 
+*** Spinal cord tumors
+  
+** Factoids
+*** Diencephalic syndrome
+These findings represent the classic symptoms of the diencephalic syndrome. The syndrome is a rare disorder characterized by a tumor, frequently quite large, centered in the diencephalon. Symptoms include failure to thrive with an emaciated appearance. Length is usually preserved. Children often are described as happy and outgoing despite their emaciated appearance. Additional symptoms can include vomiting, visual abnormalities, headache, and pallor.
+** Genetic associations
+*** Tuberosis Sclerosis
+Subependymal giant cell astrocytoma (SEGA) occurs in up to 20% of individuals with tuberous sclerosis complex (TSC) and is more likely to develop during childhood and adolescence. SEGA is a type of brain tumor that occurs in individuals with TSC that is noncancerous and is not malignant but can still be very problematic. mTOR inhibitors effective.
+*** NF1 screening
+Just optho, not MRI unless issues.
+*** AT/RT
+    INI1/hSNF5/SMARCB1 gene. More sarcoma-like than other brain tumors. Be sure to test for germline mutation.
+*** Rb
+  - SRBCT in the pineal region
+  - Possibility of trilateral disease, pineoblastoma
+* Acute Lymphocytic Leukemia
+- Steve Humger, CHOP
+** Incidence and Epidemiology
+*** Epidemiology
+- Peaks at 2-4 years (80 new cases/million drops to 20 new cases by 10 years)
+- Incidence in whites 2x blacks
+*** Genetic risk factors
+- Low hypodiploid (30-39 chromosomes) is a Li Fraumeni Syndrome disease with ~50% having TP53 germline mutations.
+- Rare PAX5 germline mutations
+- 4-5% of ped leukemias have germline mutations in known cancer predisposing genes.
+** Pointers
+*** Surface markers
+- Almost all cases of Pre-B ALL are CD19+, CD22+, CD79a+
+- CD10- is most associated with MLL-rearrangement
+- Pre-B ALLs lack surface Immunoglobulin, so if there are Surface Ig positive, it is Burkitt's (or mature B-cell ALL)
+- Burkitt's are <2% of ALL
+  - Unique L3 morphology and express surface Ig
+  - High frequency of CNS involvement
+  - Tumor lysis high risk, LDH often high
+  - Need to be treated as Burkitt's, not typical ALL therapy
+  - May be associated with immunodef states
+  - c-Myc to heavy or light chain
+    - t(2;8), t(8;14), t(8;22)
+- T-ALL
+  - (cytoplasmic)CD3+, TdT+
+  - higher incidence in males, older teens, and blacks
+  - Associated with high incidence of tumor lysis, high white count, mediastinal mass
+- Relationship between surface expression and ALL subsets
+| type | CD19 | CD10 | ctyoIg | surfaceIg |
+|---+---+---+---+---|
+| Pro-B | + | - | - | - |
+| Pre-pre-B (common) | + | + | - | - |
+| Pre-B | + | - | + | - |
+| Mature B (Burkitt's) | + | +/- | +/- | + ( MONOCLONAL kappa or lambda) |
+  - CD10 is positive early and lost later
+  - Lack of CD10 is linked to MLL.  About half of ALLs that are MLL-R are CD10- and half of CD10- are MLL-R
+*** Oddities
+- Recognize hypereosinophilia as a rare presenting feature of ALL
+  - eosinophils are reactive and NOT part of the malignant clone
+  - eosinophil count of 10k-100k
+- ALL can mimic JRA. Low WBC, low-normal plts, and nighttime pain predictive of ALL over JRA
+- How ALL differs from ITP
+  - Most patients with ITP are otherwise healthy
+  - With ITP, parents can often tell exact onset of bruising
+*** Extramedullary disease
+- CNS involvement
+  - Definition
+    - CNS1: no blasts, regartless on number of WBCs on cytospin
+    - CNS2: WBCs <5/\microL, cytospin blast+, negative to steinherz/bleyer (2x greater WBC/RBC compared to peripheral blood, accounts for traumatic tap)
+    - CNS3: >= 5/\microL WBCs and blast+ or clinical signs of CNS involvement
+    - 5 cells is CNS3
+  - Common in infants and Burkitt's (15-25%)
+  - Intermediate in T-ALL
+  - low in non-infant B-ALL (2%)
+- Testicular involvement
+  - Present at Dx in <1-2% of boys
+  - Associated with other high-rish features: T-ALL, high WBC
+  - Biopsy for diagnosis
+- Prognostic importance of time to relapse
+  - Extramedullary (CNS or testicular)
+    - Early is defined as <18 months from Diagnosis and is much worse outcome than later
+*** Gene rearrangments
+| cyto | molec | incidence | outcome | comments |
+|---+---+---+---+---|
+| t(21;21) | ETV6-RUNX1 | 20-25%, so most common | Excellent | Less common > 15yrs |
+| t(1;19) | TCF3-PBX1 | 5% (25% of pre-B ALL) | Neutral | higher incidence of CNS disease and relapse |
+| t(v;11) or t(11;v) | MLL-rearrangement, more than 50 partners | 3% | poor | 75% of infants<1 year have MLL-$ |
+| t(9;22) | BCR-ABL1 | ~4% | Poor with chemo alone | treat with TKI |
+| t(8;14), t(2;8), t(8;22) | c-Myc fusion to IgH, IgL, or IgK | Rare | treat like Burkitt NHL | Burkitt Leukemia |
+*** Prognostic factors
+- Clinical and lab
+  - NCI Risk Groups defined by:
+    - Age
+    - WBC
+    - Immunophenotype
+    - Standard risk (65%)
+      - age 1-9.99 years
+      - WBC < 50k
+      - EFS ~90%
+    - High risk (35%)
+      - age <1 or >10 OR WBC>50k
+      - EFS 75-80% (with more intensive therapy)
+      - infants still poor, treated with infant protocols
+  - Presence/absence of extramed disease dictates need for specific therapies
+  - ALL genotype strongly influences prognosis, stratification, and sometimes use of targeted therapies (TKI for Ph+ ALL)
+- ~Response to therapy is the strongest prognostic factor~
+  - Good risk, <1000 blasts/microL in PB at day 7
+  - Day 8 and day 15 bone marrows (not used anymore)
+    - M1 < 5% blasts, M2 5-25%, M3 >25%
+    - outcome M1 > M2 > M3
+- Minimal residual disease
+  - MRD at day 30 is most prognostic factor, better than day 8/15 marrows, so use that instead.
+  - technologies:
+    - Flow phenotypes
+    - PCR of antigen receptor loci (Ig or TCR)
+    - PCR of translocation-derived fusions only for defined subgroups (Ph+ ALL, for example)
+- Chromosome number
+| cyto                                            | incidence | outcome   | comment                          |
+|-------------------------------------------------+-----------+-----------+----------------------------------|
+| hyperdiploid DNA index >1.16 or 53+ chromosomes |    20-25% | excellent | trisomy 4, 10, adb 17 best       |
+| Hypodiploid <44 chromosomes or DNA index <0.81  |      1-2% | poor      | worsening with fewer chromosomes |
+- Ph+
+  - 3-4% of ALL are ph+, but increases with age
+  - imatinib changes outcome very significantly, so give continuously during chemo
+- T-ALL genetics/genomics
+  - hyper- and hypo-diploid are uncommon
+  - fusions uncommon
+  - TCR translocations on 14q11 and 7q35
+** Treatment
+*** Overall
+- Induction
+  - Steroids (Dex, Pred)
+  - VCR
+  - Asparaginase
+  - +/- anthracycline (Daunorubicin, typically)
+- Delayed intensification
+  - Benefit established for SR and HR, two no better than one
+- Therapy for SR vs high risk
+| SR                                            | HR                                                 |
+|-----------------------------------------------+----------------------------------------------------|
+| 4-week 3-drug                                 | 4-week 4-drug (includes anthracycline)             |
+| 4-week oral consolidation with intensive IT   | 8-wk IV consolid with intensive IT                 |
+| 8-wk Int Maint with Capizzi IV Mtx w/o rescue | 8-wk Int Maint with HD mtx or capizzi mtx + ASNase |
+| 8-wk DI phase with std reconsolidation        | 8-wk DI with intensive reconsolidation             |
+| 2nd capizzi Int Maint (sometimes)             | capizzi 2 sometimes                                |
+| Maint with q4wk steroid/VCR pulses            | Maint with q4wk steroid/VCR pulses                 |
+*** CNS disease
+- Intrathecal MTX
+- radiation not used much except for CNS3 disease
+- 1800 cGy to brain and posterior of eyes
+- Effective systemic therapy is critical for CNS relapse
+- Adverse effects of CNS therapy
+  - Intrathecal
+    - Arachnoiditis
+    - Seizures (1-2%)
+    - Transient stroke-like episodes 7-10 days post IT
+  - MRI is abnormal in 1/2 of patients, calcification is worrisome.
+  - Irradiation somnolence syndrome 5-7 weeks post Rx
+  - MTX and cXRT toxicity--give IV MTX first and THEN cXRT
+  - Development of secondary brain tumors (10X years post XRT). Meningioma highly curable, others not.
+*** Dealing with specific phases of therapy
+- Eval ALL patient with seizures
+  - Diff Dx includes leukemia, infx, metab, CVA, drug toxicity (especially MTX)
+  - CVA secondary to ASNase in induction (uncommon)
+- Complications with ALL induction
+  - Hyperleukocytosis
+    - CNS or pulm
+  - Tumor lysis
+  - Infection
+  - Hyperglycemia (Rx with insulin, do not change steroid dose)
+  - Thrombosis or bleeding (ASNase)
+- Pancytopenia during induction
+  - Antibiotics until count recovery
+- Tumor lysis syndrome
+  - features
+    - lab: increased Uric Acid, PO4, and K+
+    - clinical: increased Creatinine, seizures, cardiac dysrhythmias
+  - Highest risk in Burkitt's, infant ALL, high WBC, bulky extramedullary disease
+  - Prophylaxis
+    - 2x maint fluids
+    - alk of urine (reduce change of urate crystals)
+    - allopurinol
+  - Rasburicase (urate oxidase) in very high risk
+  - Do NOT alk if TLS present.  Use Rasburicase instead.
+- Relapse
+  - prognostic:
+    - BM worse than Extramed
+    - earlier worse
+    - age at Dx (teenagers bad)
+    - Immunophenotype
+      - T-ALL very poor relapse
+      - Relapsed TEL-AML1 (ETV6-RUNX1) does relatively well
+    - For BM relapse, high risk is 36mos
+    - for extramed replapse, high risk before 18 mos
+  - Testicular
+    - 1-2% of boys
+    - Rx with Bilat XRT (2400 cGy), intensive systemic Rx
+  - Role of Allo SCT
+    - SCT for ALL with early first marrow relapse (<36 mos)
+    - matched sib and unrelated equivalent
+    - SCT for ALL 2nd relapse
+    - SCT for any T-ALL BM relapse
+*** Late effects
+- Cardiac toxicity from anthracyclines, but not much of an issue for ALL since not high doses
+- Osteonecrosis or Avascular Necrosis
+  - low risk in pts < 10yrs with less intensive Rx
+  - Higher risk in females and in >10yo
+  - hip, knee, ankle most common
+  - all develop within 2 years of Dx, basically.
+* Myeloid Neoplasms 
+- Pat Brown
+** Epidemiology
+- Incidence of leukemias
+  - AML (age peak in infants, then drops, then back up in adolescence)
+  - ALL peak at 2-3
+  - CML unheard of in kids
+- Concordance in twins
+  - Monozygotic
+    - Index case <1 year, very close to 100%
+    - decreases after that.  After age 6, not increased, basically.
+*** Major leukemia predispositions
+- Marrow failure syndromes () - AML, MDS
+- JMML-related - NF1, Noonan
+- Down Syndrome - ALL, Transient Myelodisplatic disorder (TMD)/Acute Megakaryocytic Leuk (AMKL)
+- Others
+  - AT (ALL, NHL) - ATM mutations, DNA repair defects, immunodef
+  - Bloom syndrome (many) - BLM mutations, short stature, sun rash, sister chromatid exchanges
+  - Li-Fraumenia (many including hypodiploid ALL where germline TP53 is relatively common)
+** Marrow failure and MDS/AML
+*** Pancytopenia
+- Fanconi 
+  - Clinical features: skeletal (radial deformities), renal, ment retardation, progressive BM failure
+  - lab: increased DSB under genotoxic agents (mitomycin C)
+  - Genetics: FA/BRCA multiprotein-complex involved in homology-directed DNA repair
+- Dyskeratosis congenita
+  - clinical: abnormal skin pigmentation, nail dystrophy, leukoplakia, progressive BM failure
+  - genetics: telomerase complex mutations (DKC1 (XR), TERC (AD), TINF2 (AD)), defective telomere maint.
+*** Anemia
+- Diamond-blackfan
+  - Clinical: pure red cell aplasia, facial, skeletal, and GU abnormalities
+  - Genetics: mutations in ribosomal genes (RPS19, RPL5, others)
+*** Neutropenia
+- Schwachman-Diamond syndrome
+  - clinical: neutropenia, exocrine panc insuff., skeletal abnormalities
+  - genetics: SBDS mutations, rRNA processing and 40S subunit biogenesis
+- Severe contenital neutropenia (Kostmann)
+  - clinical: congenital neutropenia
+  - Genetics: ELA2 (elastase) mutations most common. Secondary activating muts in G-CSF receptor often responsible for progression to AML
 
