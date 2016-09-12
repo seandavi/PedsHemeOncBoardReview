@@ -471,7 +471,7 @@ Just optho, not MRI unless issues.
   - hip, knee, ankle most common
   - all develop within 2 years of Dx, basically.
 * Myeloid Neoplasms 
-- Pat Brown
+- Pat Brown, JHU
 ** Epidemiology
 - Incidence of leukemias
   - AML (age peak in infants, then drops, then back up in adolescence)
@@ -509,4 +509,117 @@ Just optho, not MRI unless issues.
 - Severe contenital neutropenia (Kostmann)
   - clinical: congenital neutropenia
   - Genetics: ELA2 (elastase) mutations most common. Secondary activating muts in G-CSF receptor often responsible for progression to AML
-
+*** Thrombocytopenia
+- Congenital amegakaryocytic thrombocytopenia
+  - Clinical: congenital thrompocyto, progressive BM failure
+  - MPL (thrombopoeitin receptor) mutations
+- Familial platelet disorder with predisposition to AML
+  - clinical: qual and quant platelet defects
+  - genetics: AML1 (myeloid TF) mutations
+** Classification of Myeloid
+*** FAB (30% blasts for acute)
+| subtype | description                 | comments                                                                                                          |
+|---------+-----------------------------+-------------------------------------------------------------------------------------------------------------------|
+| M0      | AML s differentiation       | Diff to dist from ALL (and rare), even myeloperoxidase-                                                           |
+| M1      | AML c minimal diff.         | myeloperoxidase+                                                                                                  |
+| M2      | AML with differentiation    | Auer rods, t(8;21) AML1-ETO fusions, good prognosis, chloromas                                                    |
+| M3      | Acute promyelocytic (APL)   | Auer rods, DIC/bleeding, t(15;17) PML-RAR fusion, ATRA therapy                                                    |
+| M4      | Acute myelomonocytic (AMML) | mixture of myeloblasts and monoblasts, may have monocytosis                                                       |
+| M4Eo    | AMML with eosinophilia      | >5% abnormal eos in marrow, inv(16) common, good prognosis                                                        |
+| M5      | Acute monocytic             | >80% marros monocytic, infant age is MLL (11q23) rearrangements, CNS involvement, chloromas, gingival hyperplasia |
+| M6      | Acute erythroblastic leuk   | Rare in children                                                                                                  |
+| M7      | Acute megakaryo leukemia    | Most in Downs, GATA1 mutations, myelofibrosis common, good prognosis if <2yo and Downs                            |
+- M0-M2 just myeloid with different degrees of differentiation
+- M3 APL
+- M4-M5 Monocytic
+*** WHO (20% blasts)
+- based on clinical and molecular
+- Just based on four questions
+  - Is AML due to prior therapy?
+    - therapy-related AML (t-AML)
+  - Is Downs-related?
+    - DS-related AML
+  - Is major ("Big 4") molecular abnormality? (if so, no minimum %blasts needed)
+    - t(8;21) = M2
+    - inv(16) = M4Eo
+    - t(15;17) = APL, M3
+    - MLL-r
+  - Is there prior MDS or (del(7), del(5q), etc.)
+    - AML with MDS
+  - If no to all, use FAB classification
+*** The Big 4
+- KNOW THIS TABLE
+| cyto     | molecular                | FAB    | Characteristics                                |
+|----------+--------------------------+--------+------------------------------------------------|
+| t(8;21)  | AML1-ETO (RUNX1-RUNX1T1) | M2     | Auer Rods, Chloromas, Good Px                  |
+| t(15;17) | PML-RARA                 | M3     | Granules, Auer rods, Good Px with ATRA/Arsenic |
+| inv(16)  | CBFB-MYh11               | M4Eo   | Eos with baso granules, chloromas, good px     |
+| 11q23    | MLL                      | M4, M5 | infant, hyperleuko, skin, CNS, gums, t-AML     |
+*** APL
+- High risk of bleeding (~10% mortality)
+- close monitoring of coags
+- Start ATRA ASAP
+- Differentiation syndrome as promyelocytes differentiate
+  - start on steroids, hold ATRA until resolved
+- Low risk APL (<10k WBC) ATRA and arsenic ONLY.
+*** MDS vs AML
+- Uncommon for AML to have MDS precursor
+- When MDS occurs in kids, progression to AML is general rule
+- Allo SCT is generally needed for MDS
+*** Characteristic clinical presentations of AML and their subtypes
+- DIC/bleeding (APL)
+- Hyperleukocytosis - M4/M5 (MLL-related 
+  - elevated WBC > 100k (AML cutoff is lower than ALL)
+  - sludging in brain, lungs, kidneys
+  - CNS-lethargy, bleeding
+  - Hypoxia, resp distress, diffuse infiltrates
+  - Renal insufficiency
+  - Management: 
+    - treat leukemia ASAP
+    - leukopheresis short term fix only
+- CNS Leukemia (M4, M5 monocytic)
+- Leukemia cutis - M4/M4 (monocytic)
+- Chloromas - M2, monocytic
+*** Immunophenotyping
+- Pan-myeloid: CD13, 33, 65
+- Monocytic: 11b, 14, 15
+- Megakaryocytic: 41, 42, 61
+- APL: bright 33, 15+, HLA-DR-, 34-
+- t(8;21): often CD19+
+*** ALL of ambiguous lineage
+- often MLL-rearranged
+- Acute undiff leuk--no lineage-specific markers
+- Mixed Phenotype Acute Leukemia (MPAL)
+  - mixed T/AML or B/AML
+** Prognostic factors
+*** Not used for Rx decisions
+- Age and sex
+- race: non-whites do worse
+- BMI: under or over worse Px
+- High WBC not used except in APL (>10k is high risk, so use anthracycline)
+- FAB: supplanted by cyto/molecular
+*** Recent risk stratification
+- Favorable
+  - DS-related
+  - APL
+  - inv(16), t(8;21)
+  - MRD measurement
+    - <0.1% cutoff at end of course 1
+- Unfavorable
+  - therapy-related-AML
+  - cyto: -7, 5q-, abn(3q)
+  - FLT3/ITD
+  - primary induction failure (>5% blasts after course 2)
+  - MRD measurement
+    - >0.1% cutoff at end of course 1
+** Therapy
+- Remission induction
+  - 2 courses of Ara-C, Doxo or Dauno, etoposide
+  - current protocol switches 2nd for mitoxantrone/HD ara-c for HR patients
+- Post-remission consolitation
+  - BMT
+    - All HR with best donor
+    - No LR patients
+  - Additional chemo intensification courses (2)
+    - HR w/o donor, all LR
+    - Usually HD Ara-C combined with something not used in induction (mitoxantrone, L-asp)
