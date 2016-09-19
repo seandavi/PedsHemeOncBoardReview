@@ -730,7 +730,71 @@ Jennifer C. Kesselheim, Boston Children's
 * TODO Neoplastic hematology
 * TODO Non-neoplastic hematology
 * TODO Retinoblastoma, germ cell tumors, and hepatoblastoms
-* TODO Sarcomas
+** Retinoblastoma
+- Epidemiology
+  - 3% of ped tumors
+  - 11% of cancers<1 year
+  - 95% diagnosed by age 5
+- Genetics
+  - Inherited --> >90% penetrance
+    - earlier, bilateral, multifocal
+  - Rb gene most commonly
+- Clinical
+  - Leukocoria (65-75%)
+  - Strabismus (10-15%)
+- Diagnositic workup
+  - exam under anesthesia by ophtho
+  - Imaging
+    - ocular US
+    - MRI orbits/brain
+      - look for Trilateral RB
+    - Bone scan, BM, CSF *only in high risk disease*
+  - Genetic counseling/testing
+- Staging
+  - Eye (Classification)
+    - Groups A-E, a continuum based on size and seeding in eye
+    - Group E = Enucleation
+  - Patient (staging)
+    - many staging approaches
+    - Intraocular
+    - Extraorbital
+- Rx
+  - Cure >> Eye Salvage >> Vision preservation 
+  - Major concepts
+    - Ocularpreservation vs. enucleation
+      - Avoid or delay RT
+    - Risk-adapted therapies
+      - Intraocular vs. orbital vs. extraorbital
+    - Two different scenarios: UL and BL
+  - Avoid or delay RT for ocular salvage
+    - Important impact on orbital growth
+    - Risk of second malignancies(heritableRB)
+  - Unilateral
+    - Intraocular
+      - can we do ocular salvage (cryotherapy, intra-arterial chemo, local RT)?
+      - Chemoreduction
+        - VCR + Carbo +/- Etop
+      - Then local therapy
+    - Enucleation
+      - Unilateral > Bilateral (for obvious reasons)
+      - If done, if there is evidence of extra-retinal disease, observe
+      - If extra-retinal disease, give adjuvant chemo
+  - Extraocular
+    - Orbital
+      - look in LN mets
+      - look for distance mets
+      - Rx
+        - Chemotherapy
+          - Platinum agents
+          - Epipodophyllotoxins – Alkylators
+          - Anthracyclins
+        - Enucleation 
+        - Radiation
+    - Extraorbital
+      - Extremely rare
+      - Bone, BM, Liver, CNS
+
+* Sarcomas
 ** Soft tissue sarcomas
 *** Rhabomyosarcoma
 - About 50% of all childhood soft tissue sarcomas
@@ -772,11 +836,145 @@ Jennifer C. Kesselheim, Boston Children's
   - GU
     - favorable locations = paratesticular, vagina, uterus
     - unfavorable locations = bladder/prostate
+  - VERY unfavorable sites: other sites, worst is extremity
+- Histology
+  - Botryoid is a very good prognostic factor
 - Staging
   - based largely on site and lymphatic/local spread
   - MRI/CT of primary site
-  - Bone
+  - Lung met (less bad)
+  - Bone met (worse prognosis)
   - for parameningeal or paraspinal, MRI and CSF
+IRS Clinical staging
+| stage | sites          | T        | size           | N             |
+|-------+----------------+----------+----------------+---------------|
+|     1 | favorable site | T1 or T2 | any size       | N0, N1, or N2 |
+|     2 | Unfav sites    | T1 or T2 | small          |               |
+|     3 | Unfav sites    | T1 or T2 | small or large | N1 or N2; N0  |
+|     4 | Unfav sites    | T1 or T2 | any            | Distant mets  |
+
+- IRS grouping (surgical)
+  - Group I: local disease, complete resection
+  - Group II: GTR with evidence of regional spread
+  - Group III: incomplete resection (with gross disease) -- most common
+  - Group IV: distant mets
+- Principles of management
+  - interdisciplinary: surgery, radiation, chemo
+    - Local control is VERY important -- 75% of relapse is local
+  - Surgery
+    - Primary therapy before other therapy
+    - Try HARD to get it out without major 
+  - Radiation (presurgical volume)
+  - chemo
+    - Standard over 45 weeks (60% FFS)
+      - VCR
+      - Actino
+      - Cyclophosphamide
+    - very low risk (85% FFS)
+      - VA or VA with lower cy dose
+    - High risk (<50%)
+      - Add dox, etop, ifos, topotecan, irinotecan
+      - interval compression (every two weeks)
+- Monitor treatment
+  - PE, every 1-3 months
+  - Imaging every 3 months
+- Interestingly, response at wk 12 does NOT predict overall outcome
+- Recurrence is bad
+
+
+*** Non-rhabdoid soft tissue sarcomas
+- 40% of soft sarcomas < 5yrs, 77% of soft tissue sarcs 15-19 
+– Treatment: Surgery, RT for residual, +/- Chemotherapy
+  - Group I; observe unless grade 3 and > 5 cm, then consider RT and/or
+chemotherapy (Dox + Ifos)
+  - Group II; RT alone unless grade 3 and/or > 5 cm, then consider chemotherapy
+(Dox + Ifos)
+  - Group III-IV or grade 3 and > 5 cm any group; chemotherapy (Dox + Ifos), RT,
+delayed surgery
+  - Role of tyrosine kinase inhibitors (pazopanib) under investigation
+- PROBABLY NO QUESTIONS on TREATMENT of NRSTS
+- Prognosis
+    - Tumor type
+    - group 
+    - tumor size (<5cm)
+    - grade (mitotic rate, necrosis)
+- Therapy
+    - Group 1: surgery only +/- chemo
+    - Group 2: surgery, then RT +/- chemo
+  - Tumors based on chemoresponsive
+    - Chemoresponsive
+      - Synovial (SYT-SSX t(X;18))
+      - Infantile fibrosarcoma
+      - Undifferentiated sarcoma
+    - Poorly responsive to chemo
+      - MPNST
+      - Leio (associated HIV, immunosuppression)
+      - Alveolar soft part sarcoma
+      - Epitheliod
+** Osteosarcoma
+- Predisposing factors
+  - ionizing radiation
+  - Hereditary Rb
+- Genetics
+  - Supernumerary ring chromosome (12q13-15) characteristic of parosteal OS
+  - Rb
+  - TP53
+  - RECQL4
+    - Rothmund-Thomson Syndrome (short stature, cataracts, bony abnormalities)
+– Histopathologic subtypes: WHO 2013
+  - Central (medullary) tumors 
+    – Conventional OS (90%)
+      - Osteoblastic OS
+      - Chondroblastic OS 
+      - Fibroblastic OS
+    – Telangiectatic OS
+    – Small round cell OS 
+    – Low grade central OS
+  - Surface tumors
+    – Parosteal OS (low grade) -- *TREATED with RESECTION only*
+    – Periosteal OS (intermediate grade) – High-grade surface OS
+- Staging
+  - Radiographic
+    - plain films and MRI
+      - osteolytic and osteoblastic (EWS tends to be only osteolytic)
+      - Look for "skip lesions" on MRI
+    - CT chest/CXR
+    - Bone scan
+  - Assessment
+    - Local vs met
+    - resectable vs not
+- Treatmant
+  - Surgery
+    - remove of ALL tumor (including mets)
+    - Timing after neoadjuvant chemo (week 10)
+  - Chemo
+    - Localized, resected--HD Mtx, Dox, Cisplay (MAP)
+    - Met, unresected--MAP +/- I&E
+- Parosteal much better prognosis
+- %necrosis
+  - >90 75-80% 5-yr survival
+  - <90 40-50% 5-yr survival
+** EWS
+- Epidemiology
+  - higher rate in whites
+- Genetics
+  - t(11;22) EWS-FLI-1 fusion
+- Pathology
+  - IHC for CD99+, Vimentin+
+- Staging
+  - Plain films & MRI
+  - CT chest
+  - Bone scan
+  - Bilateral BM
+  - Is it localized or metastatic is the main question
+- Therapy
+  - Local control should not compromize systemic therapy, since relapse is often due to development of mets
+  - Surgery and RT probably equivalent
+  - Surgery is after 12 weeks or so of Chemo
+  - chemo
+    - VDC + I/E (VCR, Dox, Cyclosphamide, Ifos, Etop)
+    - interval compression
+    - ?SCT
 
 
 * TODO Stem cell transplant
@@ -912,3 +1110,13 @@ Recurrent purulent infections with catalase positive bacteria and fungi involvin
   - Evaluation for fractures with trauma
   - Dental care
 
+* Molecular and cytogenetic findings
+| cytogenetic              | molecular                 | tumor                 | notes               |
+|--------------------------+---------------------------+-----------------------+---------------------|
+| t(11;22)(q24;q12)        | EWS-FLI1                  | EWS                   |                     |
+| t(X;18)(p11;q11)         | SYT-SSX                   | Synovial              |                     |
+| t(2;13)(q35;q14)         | PAX3-FOXO1                | ARMS                  |                     |
+|                          | LOH/LOI at 11p15.5 (IGF2) | ERMS                  |                     |
+| 12q15-17 Ring chromosome |                           | parosteol osteosacoma | favorable prognosis |
+|                          |                           |                       |                     |
+  
