@@ -84,7 +84,7 @@ WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no
 ** Symptoms and diagnosis
 #+CAPTION: Papilledema
 #+NAME:   fig:papilledema
-[[papilledema.jpg]]
+[[./papilledeme.jpg]]
 
 - Generalized symptoms
   - ...
@@ -103,7 +103,7 @@ WHO categorization is a CLINICAL PROGNOSTIC classification system.  (There is no
 ** Treatment overview
 #+CAPTION: Overview of brain tumor Rx
 #+NAME:   fig:braintumorRx
-[[braintumorRx.png]]
+[[./braintumorRx.png]]
 - Neurosurgery
   - Generally, needed, at least for biopsy
   - DIPG is a radiographic diagnosis
@@ -164,7 +164,7 @@ The standard of care for children with “standard risk” medulloblastoma (defi
     - Imaging:
 #+CAPTION: Ependymoma imaging
 #+NAME:   fig:ependymoma
-[[ependymoma.png]]
+[[./ependymoma.png]]
     - Rx
       - Aggressive upfront resection (GTR "required")
       - Non-met tumors (70% EFS):
@@ -214,7 +214,7 @@ The standard of care for children with “standard risk” medulloblastoma (defi
   - Imaging:
 #+CAPTION: Pilocytic astrocytoma with enhancing nodule and cystic mass
 #+NAME:   fig:pilo
-[[pilo.png]]
+[[./pilo.png]]
   - Rx:
     - Dependent on location
     - GTR is curative (cerebellar) and no further Rx needed
@@ -623,3 +623,292 @@ Just optho, not MRI unless issues.
   - Additional chemo intensification courses (2)
     - HR w/o donor, all LR
     - Usually HD Ara-C combined with something not used in induction (mitoxantrone, L-asp)
+- CNS
+  - Much less intense than ALL
+  - No cXRT in AML
+  - weekly ara-C IT until clear CSF
+- No role for maintenance therapy in AML
+- Supportive
+  - Strep viridans and gram negative 
+  - G-CSF not use in AML
+- Late effects
+  - Anthrocyclines: ~450 mg/m2
+  - High-dose Ara-C: neurotoxicity
+  - Etoposide: t-MDS/AML
+- Radiation: only for emergent treatment of complications (chloromas, spinal cord compression, etc.)
+** CML
+- Ph+
+- Priapism is not common, but occurs
+- Three phases
+  - Chronic
+  - Accelerated
+  - Blast crisis - 2/3 are AML, 1/3 ALL
+    - BCR-ABL fusion in two forms used to dist. ALL from CML in blast crisis
+      - p210 = CML
+      - p190 = ALL
+- Treatment is generally TKI. After accelerated phase or blast crisis, get back to chronic and then to HSCT
+- On TKI, should see slow response over 12 months.
+
+
+* Educational methodology
+Jennifer C. Kesselheim, Boston Children's
+** Androgogy
+- Malcolm Knowles - 1980 book on Androgogy (adult learning vs. pedagogy, child)
+- Adult learners are autonomous and goal-directed
+- Adult learners need to assume responsibility for their own learning
+  - presentations
+  - answering questions with "go read that"
+- Adult learners look for teachers as facilitators
+  - respect for learners
+  - solicit learners' perspectives
+- Questions for students
+  - what are you hoping to learn?
+  - where will your future career go?
+  - How can today's learning serve you in that future?
+- Individualized Learning Plan (ILP)
+  - update regularly
+- David Kolb - cycle of experiential learning
+  - steps 
+    - Concrete experience - Doing
+    - Reflection - Think about the experience
+    - Abstract conceptualization - link your message with their experience
+    - Experimentation - Improve performance based on better understanding
+  - OPTIOMAL learning requires all four steps
+    - if people get rushed, they oscillate between concrete experience <--> experimentation
+** Hidden curriculum
+  - Teaching that contradicts formal curriculum
+  - exists in everyday experience of learners
+    - Behavior in role models
+    - implied by behaviors of peers
+** Feedback and evaluation
+*** Feedback
+- Types of feedback
+  - Formative 
+    - Informal
+    - intermediate timing
+    - Provides opportunity for improvement
+  - Summative
+    - May be more formal
+    - reflects formative feedback (no surprises!)
+- Expectations
+- Giving feedback (Ramani and Kackov, 2012; just for my info)
+  - prepare yourself and the receiver
+  - choose time and place
+  - Identify it as feedback
+  - Allow learner to self-assess
+  - First give positive feedback
+  - Identify areas for improvement
+  - CREATE plan for improvement
+  - leave time for discussion!
+  - solicit feedback on your own performance
+*** Assessment
+- Feedback is NOT the same as assessment
+- Formal
+- Need assessment tools
+- Collect objectively
+- hierarchy of behaviors
+  - from novice to master
+** Educational planning
+- Determine desired outcome (big picture)
+- Needs assessment; determing gap between the idea and the actual
+  - collect data from learners, teachers, professionals
+- Learning objectives
+  - Use "action verbs" (identify, classify, select, ...)
+- Teaching methods
+  - one size doesn't fit all
+- Evaluation of Outcomes
+  - Plan should be made at the *start* of the process
+  - Often a missed step
+  - How
+    - Satisfaction?
+    - Feasibility (can you do it)
+    - Did the teaching meet the objectives (whatever they were)
+
+* TODO Hemoglobinopathies
+* TODO Immunology and Immunodeficiency
+* TODO Lymphoma
+* TODO Neoplastic hematology
+* TODO Non-neoplastic hematology
+* TODO Retinoblastoma, germ cell tumors, and hepatoblastoms
+* TODO Sarcomas
+** Soft tissue sarcomas
+*** Rhabomyosarcoma
+- About 50% of all childhood soft tissue sarcomas
+- Molecular and cytogenetic abnormalities
+  - Germline
+    - TP53: Li-Fraumeni (breast, brain, ACC, leukemia, osteo)
+    - BWS: IGF2
+    - Noonan: RAS-MAPK pathway
+    - NF1: NF1 gene
+  - Somatic
+    - *PAX-FOXO1 fusion gene* in Alveolar RMS (PAX3 in 60%, PAX7 in 20%)
+    - LOH in 11p15.5 in Embryonal RMS --> biallelic expression via LOH or LOI
+- IHC staining in RMS
+  - ERMS is a spindle cell tumor, so differentiate from Synovial
+  - ARMS is a SRBCT, so differentiate from Lymphoma, NB, EWS/PNET
+| tumor      | markers                              |
+|------------+--------------------------------------|
+| ERMS, ARMS | MyoD, Myogenin, Desmin, Muscle actin |
+| Synovial   | Cytokeratin, EMA, Bcl2               |
+| Lymphoma   | LCA, CD3, CD20, TdT                  |
+| NB         | NSE, Synaptophysin                   |
+| EWS/PNET   | CD99, Vimentin                       |
+- Subtypes
+  - ERMS
+    - 60-70% of cases
+    - simulates immature muscle
+    - younger age, typically
+    - Favorable site, localized disease, favorable prognosis
+  - ARMS
+    - 20% of cases
+    - Look like alveoli
+    - t(2;13), t(1;13)
+    - unfavorable progosis, mets
+- Clinical
+  - Head/neck (34%)
+    - Favorable = Orbit, Non-parameningeal
+    - unfavorable = parameningeal (base of skull, nose)
+      - CNS extension in 50%
+  - GU
+    - favorable locations = paratesticular, vagina, uterus
+    - unfavorable locations = bladder/prostate
+- Staging
+  - based largely on site and lymphatic/local spread
+  - MRI/CT of primary site
+  - Bone
+  - for parameningeal or paraspinal, MRI and CSF
+
+
+* TODO Stem cell transplant
+* TODO Transfusion medicine
+
+
+* Syndromes
+** Neutrophils
+*** Kostmann's syndrome (severe congenital neutropenia) :Quantitative:Neutrophil:
+ - Group of rare diseases with different genetic etiologies
+ - Affects only myelo
+ - Genetics
+   - Elastase (ELA-2) mutations
+   - HAX-1 mutations
+   - many others
+   - Comes in AD, AR, and XLR forms
+ - Clinical
+   - Severe neutropenia early in infancy
+   - monocytosis, eosinophilia
+   - Risk of MDS or AML (2%/year)
+ - Treatment
+   - Aggressive treatment of infx
+   - G-CSF to keep ANC>1000
+   - Consider SCT, particularly for AML, MDS
+*** Cyclic neutropenia                              :Quantitative:Neutrophil:
+ - Mechanism/Inheritance/Genetics:
+   - Apoptosis in precursors and cyclic hematopoiesis
+   - Inheritance: AD (ELA-2 mutations, but in different place from Kostmann's) and other
+ - Clinical features:
+   - Recurrent fever, pharyngitis, aphthous ulcers, periodontitis
+   - *Cycles* 21 ± 3 days for most (maybe as short as 14 days or long as 28 days)
+   - ANC <200/mcl for 3-5 days
+   - Bone marrow: myeloid hypoplasia, arrest at myelocyte level during neutropenia
+   - Infections, mouth ulcers during neutropenia; improvement with age
+   - Some have cycles in platelet and reticulocyte counts; severity decreases in adolescent or adult age range
+ - Management:
+   - Aggressive antibiotic and supportive care for infection
+   - G-CSF daily or alternate days if required
+*** Schwachman-Diamond                              :Quantitative:Neutrophil:
+ - Mechanism/Inheritance/Genetics
+   - FAS associated apoptosis of marrow precursors, ↓ CD34+ cells, marrow
+ stromal defects all have been described
+   - AR: Many have defect in SBDS gene, chromosome 7 (7q11)
+ - Clinical features
+   - Multisystem disease
+     - neutropenia (90-95%)
+     - pancreatic insufficiency
+     - metaphyseal chondrodysplasia (bell-shaped chest)
+     - short stature
+     - other dysmorphic features
+   - 25% develop marrow aplasia, 25% develop MDS/AML
+   - May have associated neutrophil dysfunction (chemotaxis)
+   - Recurrent infections
+ - Management
+   - Pancreatic enzyme replacement
+   - G-CSF for severe neutropenia with infection, severe gingivitis
+   - Aggressive antibiotic therapy and supportive care for infection
+   - SCT for severe complications
+*** Myelokathexis/WHIM Syndrome                     :Quantitative:Neutrophil:
+- Mechanism/Inheritance/Genetics:
+  - Myeloid hyperplasia with degredation of precursors and mature cells in
+the marrow
+  - ↑ bcl-x
+  - AD mutations in CXCR4 receptor causing a gain-in-function defect and limits down regulation after stimulation
+- Clinical features:
+  - Severe neutropenia
+  - Recurrent warts (W), hypogammaglobulinemia (H), repeated infections (I), myelokathexis (M)
+- Management:
+  - G-CSF ameliorates apoptosis and ↑ Ig’s, GM-CSF improves neutropenia
+  - IVIG can reduce bacterial infections
+  -Plexifor, an antagonist to CXCR4 is a potential strategy for this disorder
+*** Leukocyte Adhesion Deficiency type 1                :Neutrophil:Function:
+Defect of adhesion
+- Genetics
+  - AR
+  - complete or partial deficiency of CD18
+- Clinical
+  - Neutrophilia due to inability of neutrophils to leave bloodstream
+  - recurrent soft tissue infx
+  - gingivitis
+  - mucositis
+  - delayed sep of umbi
+*** Chediak-Higashi                                 :Neutrophil:Function:
+- clinical
+  - Oculocutaneous albanism
+  - nystagmus
+  - photophobia
+  - Recurrent infections of skin
+  - mucous membranes and respiratory tract by bacteria
+  - Lymphoproliferative phase associated with fever hepatosplenomegaly and hemophagocytic disorder
+  - Neurodegenerative syndrome.
+- Functional and lab
+  - Neutropenia 
+  - Giant granules in all leukocytes
+  - Abnormal degranulation
+  - Major defect in movement, also decreased degranulation and microbicidal activity (mild).
+- Molecular
+  - AR
+  - leaky granules
+  - CHS1 gene
+*** Myeloperoxidase Deficiency                      :Neutrophil:Function:
+*** Chronic Granulomatous Disease (CGD)                 :Neutrophil:Function:
+Recurrent purulent infections with catalase positive bacteria and fungi involving skin and mucous membranes. 
+- Clinical
+  - Deep infections of lung, liver, spleen, lymph nodes and bones.
+- Functional defect
+  - Neutrophilia. 
+  - Normal adherence, chemotaxis, ingestion and degranulation. 
+  - Defect in oxidase enzyme system. No toxic oxygen metabolites produced.
+  - *Absent or reduced ability to kill coagulase positive bacteria and fungi (e.g., staph, E-coli).*
+- Genetics
+  - AR or XLR
+  - Defects in PHOX genes
+- Treatment
+  - Antifungal prophylaxis (daily itraconazole)
+  - Gamma-interferon may help
+*** Hyper IgE syndrome
+- Clinical features:
+  - Chronic eczema
+  - Recurrent skin, sinopulmonary infections (lung cysts): pathogens include S. aureus, Haemophilis influenzae, pseudomonas, Aspergillus - Mucocutaneous candidiasis
+  - Coarse facial features, asymmetric, large nose
+  - Bone fractures, hyperextensible joints, scoliosis, early loss of teeth
+- Laboratory:
+  - ↑ IgE (> 2,000 IU/ml), sometimes eosinophilia
+  - Neutrophil chemotactic defects in some patients
+  - Abnormalities in T-lymphocyte subsets
+  - Abnormal production of or response to IL-4 and INF-γ
+- Inheritance:
+  - AD (STAT3 mutations)
+  - AR (DOCK8 mutations) and others
+- Management:
+  - Aggressive management of infections and prophylactic antibiotics
+  - Evaluation for fractures with trauma
+  - Dental care
+
