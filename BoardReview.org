@@ -725,11 +725,112 @@ Jennifer C. Kesselheim, Boston Children's
     - Did the teaching meet the objectives (whatever they were)
 
 * TODO Hemoglobinopathies
+Charles Quinn, Cincinnatti Children's
+- Hemoglobin
+  - Heme + Globin
+  - Disorders of heme ==> sideroblastic anemias, etc.
+  - Globin
+    - Two alpha globins + Two beta globins
+  - Alpha on chrom 16p13
+    - Embryonic (HBZ)
+    - Fetal (HBA2)
+    - Adult (HBA1)
+  - Beta on chrom 11p15
+    - Embryonic (HBE)
+    - Fetal (HBG2, HBG1)
+    - Adult (HBD, HBB)
+#+CAPTION: Hemoglobin names, structures, and descriptions
+#+NAME:   tab:hgb
+| name     | description    | formula           |
+|----------+----------------+-------------------|
+| Hb A     | Adult Hb       | \alpha_2 \beta_2  |
+| Hb A_2   | Minor adult Hb | \alpha_2 \delta_2 |
+| Hb F     | Fetal Hb       | \alpha_2 \gamma_2 |
+| Hb Barts | Abnormal Hb    | \gamma_4          |
+| Hb H     | Abnormal Hb    | \beta_4           |
+- Disorders of Hemoglobin
+  - Quantitative
+    - Thalassemias
+    - Decreased (imbalance) production of normal globin genes
+  - Qualitative
+    - Structural variants or hemoglobinopathies
+    - production of abnormal globin chains
+** Thalassemias
+#+CAPTION: normal hemoglobin production
+#+NAME:   fig:normalheme
+[[./normalheme.png]]
+
+- \alpha-Thalassemia
+  - Since \alpha chain shared in fetal and adult, both fetuses and adults affected
+  - excess of \beta chains
+#+CAPTION: alpha thalassemia
+#+NAME:   fig:alphathal
+[[./alphathal.png]]
+
+- \beta-thalassemia
+
+#+CAPTION: beta thalassemia
+#+NAME:   fig:betathal
+[[./betathal.png]]
+  - Relative deficiency of adult \beta-globin. Fetal and neonates fine.
+  - Excess of \alpha chains
+- Pathophysiology
+  - imbalance of \alpha and \beta globins
+  - excess of globins causes ineffective erythropoiesis and damages RBCs
+- Nomenclature
+  - Genetic Defect
+    - \alphaa-thalassemia: defect in \alpha globins
+    - \beta-thalassemia: defect in \beta globins
+    - \delta\beta-thalassemia: defect in both \delta and \beta globins
+    - etc...
+  - Clinical Severity
+    - Minor: mild anemia, asymptomatic trait state
+    - Intermedia: moderate anemia, intermittent transfusion
+    - Major: severe anemia, transfusion-dependent
+- Typical mutations
+  - \alpha
+    - deletions
+  - \beta
+    - point mutations in regulatory leading to changes in production
+    - \beta+ decreased
+    - \beta0 absent
+- Overview of Alpha thal
+  - number of genes
+    - 4 genes = normal
+    - 3 genes = silent carrier
+    - 2 genes = thal trait (minor)
+      - Hb Barts (\gamma_4) in neonates (5-10%), but disappears
+      - hypochromic, microcytic
+    - 1 gene  = HbH disease (intermedia)
+      - Hb Barts (\gamma_4) in neonates (25-50%), but disappears
+      - Hb H (\beta_4) at 5-10% in adults
+      - Hb Constant Spring is very unstable, so looks like a missing copy of gene
+    - 0 genes = hydrops fetalis (\alpha-thal major)
+  - Asian genotype typically in cis, so higher risk of hydrops fetalis
+  - African genotype typically in trans, so lower risk of hydrops fetalis
+#+CAPTION: Risk of Thalassemia Major in Offspring Depends on Trait Genotype
+#+NAME: fig:hydropsrisk
+[[./hydropsrisk.png]]
+
+- \Beta thal
+  - Caused by point mutation that leads to decreased or absent production
+  - number of productive genes
+    - 2 genes = normal
+    - 1 normal, 1 decreases = \beta-thal trait (minor)
+      - Neonates normal, since they are using \gamma, not \beta
+      - Progressively hypochromia and microcytosis
+      - Elevated HbA_2 and sometimes HbF
+    - 1 reduced, 1 absent = \beta-thal intermedia
+      - Neonates normal
+      - adults HbA_2 and HbF increased
+    - both absent expression = \beta-thal major (Cooley's Anemia)
+  - HbE behaves like B+
+
 * TODO Immunology and Immunodeficiency
 * TODO Lymphoma
 * TODO Neoplastic hematology
 * TODO Non-neoplastic hematology
-* TODO Retinoblastoma, germ cell tumors, and hepatoblastoms
+* Rare tumors: Retinoblastoma, germ cell tumors, and hepatoblastoms
 ** Retinoblastoma
 - Epidemiology
   - 3% of ped tumors
@@ -793,6 +894,106 @@ Jennifer C. Kesselheim, Boston Children's
     - Extraorbital
       - Extremely rare
       - Bone, BM, Liver, CNS
+- Screen ALL siblings of dilated eye exams AT BIRTH
+- If genetic testing is positive, look every 4 wks
+- Osteosarcoma is most common secondary malignancy and associated primary disease when RB carrier
+- Trilateral RB
+  - pineaoblastomas (asynchronous, at about 2-3 years)
+  - screen with MRI every 6 mos in bilateral RB
+** Germ Cell tumors
+** Liver tumors
+- Hepatoblastoma -- most common in younger kids
+- HCC -- more common in older kids
+*** Hepatoblastoma
+- Epi
+  - Median age 2yrs
+  - 95% of liver tumors < 1 year are hepatoblastoms
+  - After age 15, 95% are hepatocellular carcinoma
+- Associated findings
+  - Congenital
+    - BWS, Glyco storage disease
+    - Colorectal cancer syndromes (polyposis FAP, Gardner Syndrome (germline APC))
+      - annual sigmoidoscopy
+      - 1:20 cases of Hepatoblastoma have FAP 
+  - Environment
+    - Prematurity and low birth weight
+    - FAS
+    - Hepatitis for HCC (not hepatoblastoma)
+- Clinical
+  - Asymp abd mass
+  - elevated AFP 
+  - distant mets (only 20%) - lung, brain, bone
+- Histology of HBL
+  - Epithelial (Fetal + Embryonal) 85-90% of patients
+  - Pure fetal 7-10%
+    - excellent outcome
+    - stage I cured with surgery only
+  - Small cell undifferentiated (5%)
+    - very poor prognosis
+    - Low AFP
+- Workup
+  - US/dopler
+  - CT of Chest/abd/pelvis
+  - AFP
+  - biopsy
+- staging
+  - surgical
+    - 1: complete resection
+    - 4: met disease
+- Rx
+  - Surgery
+    - GTR is sought
+  - chemo (
+    - CVR + 5-FU + Dox
+  - Liver transplant for ~10% HBL patients
+*** Hepatocellular Carcinoma
+- Median age 12
+- Fibrolamelar variant (20-25%)
+  - Low AFP
+- Intrahepatic disease ==> transplant
+** Germ cell tumors
+- Epi
+  - ~3% of all ped cancers
+  - bimodal <3, adolescent
+    - younger = extragonadal more common
+    - older = gonadal more common
+- Presentation
+  - majority of extragonadal tumors are stage III/IV
+  - Ovarian:abdominalpain,palpableabdominal mass
+    - *If virilization consider Sertoli-Leydig tumor*
+  - Testicular:Irregular,non-tendermass
+  - Extragonadal tumors:
+    - Sacrococcygeal: Constipation, urinary retention
+    - Mediastinal: Chest pain, respiratory distress
+- Diagnosis:
+  - CT/MRIprimary
+  - Metastatic work-up: Bone scan, Chest CT
+- Genetic syndromes
+  - Klinefelter (47XXY) -- mediastinal mass
+- Tumor markers
+| Histology           | Serum AFP | Serum B-HCG |
+|---------------------+-----------+-------------|
+| Yolk sac tumor      | ++++      | -           |
+| Choriocarcinoma     | -         | ++++        |
+| Embryonal carcinoma | -         | -           |
+| germinoma           | -         | -           |
+| Immature teratoma   | +/-       | -           |
+- Staging
+  - surgical staging
+    - stage 1: GTR with normalization of markers
+    - stage 4: met
+- Rx
+| risk group   | stages             | treatment    | outcome |
+|--------------+--------------------+--------------+---------|
+| Low          | I                  | surgery only |    >95% |
+| Intermediate | II-IV gonadal      | Surg + chemo |    >90% |
+| Intermediate | I-III extragonadal | Surg + chemo |    >90% |
+| High         | III-IV             | Surg + cheom |     70% |
+  - NO RT for GCT
+  - Chemo
+    - Cisplat + Etop + Bleomycin
+
+
 
 * Sarcomas
 ** Soft tissue sarcomas
