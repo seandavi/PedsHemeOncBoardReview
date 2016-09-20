@@ -731,6 +731,10 @@ Charles Quinn, Cincinnatti Children's
   - Disorders of heme ==> sideroblastic anemias, etc.
   - Globin
     - Two alpha globins + Two beta globins
+#+CAPTION: Hemoglobin chains in development
+#+NAME:   tab:hgbtiming
+[[./hgbtiming.png]]
+
   - Alpha on chrom 16p13
     - Embryonic (HBZ)
     - Fetal (HBA2)
@@ -824,10 +828,205 @@ Charles Quinn, Cincinnatti Children's
       - Neonates normal
       - adults HbA_2 and HbF increased
     - both absent expression = \beta-thal major (Cooley's Anemia)
+      - Neonates: only HbF present
+      - progressively HbF and A2 only
+        - severe anemia
+        - organomegaly and growth failure
   - HbE behaves like B+
+- Rx
+  - consider SCT for transfusion-dependent
+  - transfuse to keep Hb>10 to reduce ineffective erythropoiesis (reducing extramedullary erythro)
+  - Chelation for iron overload
+    - Quantify iron by MRI in liver and heart
+  - splenectomy for marked hypersplenism
+** Sickle Cell Disease
+- Variant = \beta^{6 glu->val}
+- Sickling is due to polymerization of \beta chains after deoxygenation
+- SS > SC disease in prevalence
+- Management
+  - Proph penicillin
+  - Hyposplenism begins ~ 3mos
+  - Splenic sequestration --> splenomegaly, Retics, NRBCs present
+  - Transient aplastic crisis --> no splenogaly, no retics, NRBCs absent
+  - Fever
+    - sick = hospitalize
+    - well-looking = outpatient with close followup
+  - Pain
+    - pain management
+    - Acute chest syndrome - treat empirically for infx (cef/azithromycin)
+  - CNS
+    - Stroke 
+      - TCD screening yearly between 2-16 years
+    - Overt stroke
+      - transfusion immediately
+  - Complications
+    - Retinopathy
+    - AVN
+    - Cardiomyopathy
+    - Pulm Hypertension
+    - Chronic lung disease
+    - Renal
+  - Transfusion (for stroke, recurrent problems)
+    - Hb < 10 max
+
 
 * TODO Immunology and Immunodeficiency
-* TODO Lymphoma
+* Lymphoma
+Paul Harker-Murray, Medical College of Wisconsin
+** Overview
+- NHL more common in young children
+- Hodgkin lymphoma = *#1 cancer in ages 15-19*
+#+CAPTION: Major differences in ped HL vs NHL
+#+NAME: tab:nhlvshl
+| trait           | HL                  | NHL            |
+|-----------------+---------------------+----------------|
+| age             | 15-19               | <10yrs         |
+| spread          | contiguous          | systemic at Dx |
+| stating         | Ann Arbor           | St Jude        |
+| B symptoms      | prognistic          | not prognostic |
+| Bulk disease    | prognostic          | not            |
+| Radiation       | Yes (esp high risk) | No             |
+| Marrow          | Yes (high stage)    | Yes (all pts)  |
+| CSF eval        | No                  | Yes            |
+| CNS prophylaxis | No                  | Yes            |
+| Flow            | No                  | Yes            |
+
+#+CAPTION: Staging is different between HL and NHL
+#+NAME: tab:nhlvshlstaging
+| stage | HL                | NHL                                                      |
+|-------+-------------------+----------------------------------------------------------|
+|     1 | single node/site  | single node/site, no GI or thorax                        |
+|     2 | >2 nodes/sites    | >2 nodes/sites, GI if >95% resected                      |
+|     3 | crosses diaphragm | crosses diaphragm, GI (extensive), intrathoracic, no CNS |
+|     4 | Disseminated      | Marrow or CNS                                            |
+| Other | B-symptoms        | ---                                                      |
+
+#+CAPTION: For studying purposes
+#+NAME: fig:forstudyingNHLHL
+[[./forstudyingNHLHL.png]]
+
+
+** Hodgkin
+- Definitely heritable
+- Immunodeficiency predisposes
+- can develop autoimmune with disease (TIP, AIHA)
+- EBV is implicated in some cases of Hodgkin
+#+CAPTION: Reed Sternberg cell in classic Hodgkins, contrast with LP cell of Nodular Lymphocyte Predominant
+#+NAME: fig:reedsternberg
+[[./reedsternberg.png]]
+- Classic HL
+  - Reed sternberg (owl's eyes)
+  - CD15+, CD30+
+  - B-cell markers down, typically
+  - Four types (NOT USED FOR RISK STRATIFICATION)
+| subtype                                | description     |  EBV |
+|----------------------------------------+-----------------+------|
+| Nodular sclerosing (most common)       | Young adults    |  25% |
+| Mixed Cellularity (second most common) | <10y, advanced  |  75% |
+| lymphocyte predom (third most common)  | <10y            |  42% |
+| Lymphocyte depleted                    | adults with HIV | 100% |
+- Nodular Lymph Predominant HL
+  - LP cell (popcorn)
+  - CD45+
+  - B-cell markers present
+  - YMCA 
+    - Young (18% of <10yearold), Male (80% of NLPHL are male), Contained, Asymptomatic (no "B" symptoms)
+- Interesting: Neoplastic cells are <10% of the tumor with cytokins expressed causing the histologic changes
+- Presentation
+  - painless lymphadenopathy
+  - mediast mass (~2/3)
+  - Constitutional
+    - B symptoms (prognostic)
+      - weight loss (10% in 6 mos)
+      - night sweats
+      - unexplained fever
+    - Other not (fatigue, anorexia, mild wt loss)
+  - CRP, ESR up
+  - may have immune dysregulation (ITP, AIHA, autoimmune neutropenia)
+- workup
+  - usual, but also EXCISIONAL or INCISIONAL LN biopsy (not needle)
+  - Bilateral BM biopsy with B-symptoms or Stage III/IV
+  - CT, CXT, FDG-PET, MRI Abd/Pelvis
+- Staging using Ann Arbor staging classification
+  - Useful for risk stratification because Hodgkin lymphoma spreads predictably along contiguous lymph nodes until it is very advanced
+  - Stage I: single node region (I) or single extranodal organ or site (IE).
+  - Stage II: two or more node regions on the same side of the diaphragm (II) or one node region and localized extranodal site on the same side of the diaphragm (IIE).
+  - Stage III: node regions are involved on both sides of the diaphragm (III) and may include a localized extranodal site (IIIE) the spleen (IIIS) or both (IIISE).
+  - Stage IV: Diffuse / disseminated involvement of more >1 extranodal site. 
+  - Stages are sub-classified into “A” or “B” based on the absence or presence of systemic systems. Bulk disease is also risk stratification.
+- Rx
+  - Multimodal
+    - multiagent chemo AND RT are standard
+    - survial >90%, even for advanced disease
+  - Given good outcomes, goal is to reduce therapy where possible
+** Non-Hodgkin Lymphoma
+*** Overview
+#+CAPTION: pediatric NHL subtypes simplified
+#+NAME: tab:pednhl
+|          | t-cell derived        | b-cell derived                         |
+|----------+-----------------------+----------------------------------------|
+| immature | t-lymphoblastic       | B-lymphoblastic                        |
+| mature   | anaplastic large cell | Burkitt, Diffuse Large B-cell, Hodgkin |
+- NHL in children are very agressive
+  - Burkitt ~ 40% (5x more common in males)
+  - DLBCL   ~ 20%
+  - Lymphoblastic Lymphoma (LL) ~20%
+  - ALC ~ 20%
+  - Follicular rare in kids but common in adults (40%), indolent
+- Epi
+  - NHL > HL
+  - Male > female
+  - Caucasian > AA
+  - *Immunodeficiency increases risk of NHL by 100x*
+*** Burkitt lymphoma
+- Starry sky 
+- Highly aggressive mature B-cell Lymphoma
+- CD10,19,20,21, sIg+ (>90% IgM)
+- Genetics
+  - 80% t(8;14) IgH-cMYC
+  - Others also involve cMYC (chr8)
+- Endemic (often jaw mass)
+- Sporadic
+*** DLBCL
+- sIg+, CD19,20,79A, 
+- 2/3 express BCL-6
+- Cytogenetics non-specific, but cMYC expression in ~1/3
+- CNS in Wiskott-aldrich
+*** Lymphoblasic Lymphoma
+- Probably on a continuum with ALL, but with <25% blasts in marrow
+  - 90% T-LL
+    - CD1a,2,5,7,TdT
+    - 90% Stage III/IV
+  - 10% B-LL
+    - CD10,19,TdT
+    - only 10% stage III/IV
+*** Anaplastic Large Cell Lymphoma
+- Mature T-cell lymphoma (So has undergone TC rearrangement)
+- TdT-
+- t(2;5) NPM-ALK in ~75%, others involve ALK
+- There is a cutaneous ALCL
+
+*** Clinical
+- Presentation
+  - Burkitt abd mass, marrow, CNS disease
+  - DLBCL LN, liver, spleen, abdominal (bowel, mesentery)
+  - Lymphoblastic Mediast mass, pleural effusions, associated problems with mediast mass
+  - ALCL slowly progressive, systemic symptoms, SKIN involvement
+  - Intussuseption is Burkitt or DLBCL
+  - Emergencies
+    - TLS
+    - SVC syndrome
+    - Superior Mediastinal Syndrome
+    - may need to use steroids (but biopsy as quickly as you can)
+    - Radiation may be needed
+- Therapy
+  - chemotherapy
+  - CNS proph for everything except abd burkitt/DLBCL
+  - Radiation only for dealing with med mass
+  - short duration (except LL that looks like ALL)
+- Survival is high (>80-90%)
+
+
 * TODO Neoplastic hematology
 * TODO Non-neoplastic hematology
 * Rare tumors: Retinoblastoma, germ cell tumors, and hepatoblastoms
