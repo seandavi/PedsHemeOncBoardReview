@@ -1,4 +1,4 @@
-#+STARTUP inlineimages
+#+STARTUP: inlineimages
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://doc.norang.ca/org.css" />
 * Brain Tumors
 - Ken Cohen, JHU
@@ -724,7 +724,7 @@ Jennifer C. Kesselheim, Boston Children's
     - Feasibility (can you do it)
     - Did the teaching meet the objectives (whatever they were)
 
-* TODO Hemoglobinopathies
+* Hemoglobinopathies
 Charles Quinn, Cincinnatti Children's
 - Hemoglobin
   - Heme + Globin
@@ -1647,7 +1647,7 @@ delayed surgery
   - Role for Ewings, relapsed HR Wilm’s, Rhabdo unsure
   - Responsive HR germ cell tumors (relapsed) and HR retinoblastoma, some evidence of benefit with auto
 
-* TODO Transfusion medicine
+* Transfusion medicine
 
 Cassandra Josephson, Emory
 ** Collection and storage
@@ -1898,7 +1898,6 @@ Recurrent purulent infections with catalase positive bacteria and fungi involvin
   - Evaluation for fractures with trauma
   - Dental care
 
-** Immuno
 * Molecular and cytogenetic findings
 | cytogenetic              | molecular                 | tumor or disease      | notes               |
 |--------------------------+---------------------------+-----------------------+---------------------|
