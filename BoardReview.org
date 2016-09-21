@@ -868,9 +868,104 @@ Charles Quinn, Cincinnatti Children's
     - Renal
   - Transfusion (for stroke, recurrent problems)
     - Hb < 10 max
+* Immunology and Immunodeficiency
+Sung-Yun Pai, Boston Children's
+** Overview 
+#+CAPTION: White blood cells overview
+#+NAME: fig:whitecells
+[[./whitecells.png]]
+
+** Infections in the immunocompromised host
+*** HSCT
+#+CAPTION: Common HSCT infections and timing
+#+NAME: fig:whitecells
+[[./posthsct.png]]
+*** infections
+- F&N
+- Spleen
+  - Opsonization of encapsulated organisms
+  - functional or full splenectomy
+    - prophylaxis with penicillin for a couple of years
+    - after that, need to be treated for fever
+- Fungal
+  - prophylaxis for prolonged F&N
+  - for high risk groups
+- Pneumocystis jirovecii (formerly PCP)
+  - risk from HSCT, HIV, steroids, chemo, SCID
+  - sulfa-trim (bactrim)
+- Viral
+  - CMV ganciclovir, foscarnet; leukoreduce or CMV- blood products for CMV- patients
+  - VZV acyclovir
+**  Immune system review
+- T-cells
+  - CD4 = MHC class II
+  - CD8 = MHC class I
+  - Maturation in thymus
+    - TCR rearrangement
+- B-cells
+  - produce antibodies
+  - Need CD4-T-cell cooperation
+  - Antibodies for opsonization
+  - Maturation is in BM
+    - BCR (Ig) rearrangement
+*** Workup
+- Measuring cell subsets
+  - CD3 - T 
+    - CD4 = helper
+    - CD8 = cytolytic
+  - CD19 - B cell
+  - CD16 or CD56 = NK cells
+- Measure function
+  - Non-specific
+    - T-cell
+      - Measure proliferation to *mitogens*, does not measure interaction with TCR, so non-specific
+        - Phytohemagglutin (PHA)
+        - PWM
+    - B-cell 
+      - measure total IgG, IgA, IgM
+      - remember that antibody production also requires intact T-cells
+  - specific
+    - T-cell
+      - proliferation to antigen such as tetanus, candida
+    - B-cell
+      - Protein Ag such as tetanus
+      - Carbohydrate antigen such as pneumovax, blood group
+- IgG crosses placenta; IgM, IgA do not
+
+- *TAKE HOME POINTS*
+  - infants and children have higher ALC and T-cell numbers than adults
+  - IgG crosses the placenta, so highest at birth, drops until 2-6 months, then start making their own, so comes back
+** Congenital immunodeficiency states
+#+CAPTION: Major differences in ped HL vs NHL
+#+NAME: tab:nhlvshl
+
+#+Caption: Congenital immunodeficiency, high level
+#+name: tab:congimmuno
+|             | absent              | Present but broken |
+|-------------+---------------------+--------------------|
+| T-Cells     | SCID                | Ex: WAS            |
+| B-Cells     | X-linked Agammaglob | Ex: Common Variable Immunodef |
+| Neutrophils | SCN                 | Ex: CGD            |
+*** SCID (failure of T-cell development [at least])
+- genetically heterogeneous group of syndromes having in common a profound disturbance in the development and function of both T and B cells
+- XL or AR inherit
+- Absence of functional autologous T-cells is a uniform problem
+- B-cells may be present or absent, but they do not work since no specific antibody production
+- Generally 
+- Failure to thrive, thrush, DiGeorge
+- Dx
+  - Check ALC, lymphocyte subsets
+    - lack of all lymphocytes should be ADA SCID
+  - Lymphocyte proliferation (function) studies - will be abnormal (absent) with SCID
+  - total IgG, IgA, IgM
+- Rx
+  - ALL BLOOD PRODUCTS MUST BE IRRADIATED to avoid TA-GVHD
+  - PCP prophylaxis
+  - IgG replacement
+- Note that HSCT can be done *without* conditioning or any GVHD prophylaxis
+*** XLA (X-linked agammaglobulinemia) Failure of B-cell development
 
 
-* TODO Immunology and Immunodeficiency
 * Lymphoma
 Paul Harker-Murray, Medical College of Wisconsin
 ** Overview
@@ -1669,8 +1764,8 @@ Cassandra Josephson, Emory
 - TACO Transfusion-associated circulatory overload
   - just fluit overload and associated S&S
 - Hemolytic
-  - Acute: IgM, intravascular--can kill you
-  - delayed: extravascular, IgG
+  - Acute: *IgM*, intravascular--can kill you
+  - delayed: extravascular, *IgG*
 - Massive transfusion problems
   - when giving large pRBC transfusion, be sure to give plasma as well to supply clotting factors, etc.
 
@@ -1803,13 +1898,16 @@ Recurrent purulent infections with catalase positive bacteria and fungi involvin
   - Evaluation for fractures with trauma
   - Dental care
 
+** Immuno
 * Molecular and cytogenetic findings
-| cytogenetic              | molecular                 | tumor                 | notes               |
+| cytogenetic              | molecular                 | tumor or disease      | notes               |
 |--------------------------+---------------------------+-----------------------+---------------------|
 | t(11;22)(q24;q12)        | EWS-FLI1                  | EWS                   |                     |
 | t(X;18)(p11;q11)         | SYT-SSX                   | Synovial              |                     |
 | t(2;13)(q35;q14)         | PAX3-FOXO1                | ARMS                  |                     |
 |                          | LOH/LOI at 11p15.5 (IGF2) | ERMS                  |                     |
 | 12q15-17 Ring chromosome |                           | parosteol osteosacoma | favorable prognosis |
+|                          | IL2RG, JAK3, IL7R         | SCID, T- B+           |                     |
+|                          | Artemis, ADA, RAG1, RAG2  | SCID, T- B-           |                     |
 |                          |                           |                       |                     |
-  
+
