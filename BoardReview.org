@@ -1377,7 +1377,181 @@ delayed surgery
     - ?SCT
 
 
-* TODO Stem cell transplant
+* Stem cell transplant
+** Overview
+- Class I (A, B, C)
+  - found ubiquitously on cells
+- Class II (DR, DQ, DP)
+  - found on APCs, B-cells
+- Minor HLA antigen
+#+CAPTION: Stem cell typing criteria
+#+NAME: fig:hsctmatch
+[[./hsctmatch.png]]
+
+#+CAPTION: Stem cell match levels
+#+NAME: tab:hsctmatch
+| alleles                   | Match level |
+|---------------------------+-------------|
+| A, B, DRB1                | 6/6         |
+| A, B, C, DRB1             | 8/8         |
+| A, B, C, DRB1, DQB1       | 10/10       |
+| A, B, C, DRB1, DQB1, DPB1 | 12/12       |
+- Sources of stem cells
+  - Cord blood (1 is enough for a kid, 2 for adults)
+  - Bone Marrow
+  - PBMC
+- Key considerations for choosing a Donor
+  - HLA match trumps everything
+  - Single-allele mismatch is max for BM/PBSC (7/8)
+  - Cord blook allows 4/6
+    - trying to go higher if possible
+  - BM is preferred in peds over PBSC
+    - Data particularly strong for non-malignant disorders
+    - PBSC is faster to engraft, but more GVHD  
+  - Choose adult if possible (for ethical reasons)
+  - CMV neg for neg recipient
+  - Avoid multiparous females if possible
+  - Donor size (max to take is 20mL/kg)
+  - almost NEVER use identical twin
+- Donor screening
+  - Assent
+  - Avoid risk to donor health
+  - full assessment of donor for general health
+  - Screen for HIV, HBV, HCV, syphilis, West Nile, Chagas, etc.
+- T-cell content
+  - Higher T-cell associated with faster engraftment, more GVHD, less relapse, lower infection risk
+  - PBSC (high) > BM (moderate) > Cord (low) > T-depleated BM/PBSC
+** Transplant
+*** Prep regimens
+- Myeloablative superior to reduced intensity for AML/MDS
+  - busulfan, typically
+- For non-malig disorders, reduced intensity when possible
+- Some require reduced intensity
+  - FA, due to 
+  - SCID (IL2RG mutation for X-linked SCID), no prep needed at all for sibling
+*** Post-day 1
+- Infection
+#+CAPTION: Post-transplant infection overview
+#+NAME: fig:hsctinfx
+[[./hsctinfx.png]]
+  - prevention and prophylaxis
+    - HSV/VZV acyclovir
+    - CMV Gancyclovir or forscarnet if quant-PCR elevated
+    - Fungal fluconazole or voriconazole
+    - PJP septra "load" pre-HCT
+    - Bacterial proph not standard
+    - IVIG for hypogammaglobulinemia
+  - Key infection considerations
+    - T-cell depleted (cord blood or actually depleted) higher risk of viral infx
+    - Occurrence of cGVHD adds to risk
+*** Acute GVHD
+- Usually diagnosed by day 100
+- almost always involves skin, staging includes:
+  - skin Rash % of coverage
+  - Liver based on bili
+  - Gut based on diarrhea
+- Grading -- this is what matters for survival
+  - 1: skin only
+  - 2: liver or gut minimal involvement
+  - 3: Stage II or III gut/liver
+  - 4: Any stage IV organ system
+- Prophylaxis
+  - Calcineurin inhibitor (tacrolimus or cyclosporine) + MTX
+  - MMF for cord
+  - Skin only=Topical steroids
+  - If multisystem disease ==> high dose steroids until under control (<7 days, typically)
+*** Chronic GVHD
+- after day 100, typically
+- findings
+  - skin: sclerotic changes
+  - lung
+  - dry eyes
+- Standard Rx = prednisone 1mg/kg/day over many weeks to a couple of years, typically multiple agents
+*** Complications after transplant
+- PTLD
+  - occurs within a few months of transplant, lymphadenopathy, splenomegaly
+  - Highly associated with T-cell depletion
+  - Treatment is to withdrawal immunosuppression if possible
+- VOD
+  - typically within 2 weeks of transplant (day 1-30)
+  - about 25% affected, but only 5% really severe
+  - endothelial damage is etiology
+  - associated with Cy, Bu, and TBI
+  - S&S
+    - weight gain
+    - RUQ pain
+    - fluid overload
+  - Rx
+    - fluid management
+    - consider defibrotide, an antithrombotic
+- Transplant-associated Thrombotic Microangiopathy
+  - Looks like HUS
+  - schistocytes, up LDH, Thrombocytopenia
+- Posterior Reversible Encephalopathy Syndrome (PRES)
+  - Headache, confusion, seizures, and visual loss and most often caused by *malignant hypertension*.
+  - In HSCT patients, the intractable hypertension and the associated PRES have been linked to the use of calcineurin- inhibitors (tacrolimus and cyclosporine).
+  - The diagnosis of PRES is typically made on MRI imaging of the brain, which reveals a characteristic pattern of enhancement, commonly in the posterior circulation, which may be seen, but poorly on CT
+  - Rx = control their malignant hypertension
+- *MOST COMMON CAUSE OF DEATH after transplant is RELAPSE*
+
+** Indications for transplant
+- Cancer Treatment
+  - Allows high dose chemotherapy
+- Immunological platform
+  - Replacementor“Resetting”ofaDysfunctional Hematopoietic/Immune System
+  - Absent vs. aberrant function
+- GeneTherapy
+  - Only useful if the gene can be delivered by hematopoietic cells
+*** ALL
+- CR1
+  - Primary induction failure
+  - Hypodiploidy (<44 chromosomes) 
+  - Persistent MRD after consolidation
+- CR2
+  - Early BM relapse (<36m from dx, esp if on rx)
+  - Late BM relapse if MRD+ after reinduction
+  - Any T-cell or Ph+ BM relapse
+- CR3—any relapse
+*** AML
+- CR1
+  - Induction failure
+  - Mono-7, Mono-5, Del 5q, High AR flt-3/ITD+
+  - Persistent MRD after induction (experimental)
+  - Most recent approach
+    - Sibling donor, pt with intermediate/HR disease
+- CR2, CR3—any relapse 
+- AutoBMT?
+  - CBF or M3 AML with late relapse (>12m from dx) and clean marrow (PCR negative)
+*** Myeloproliferative diseases
+- CML
+  - Resistance/failure of TKIs
+  - Good donor with strong family preference 
+    - Significant growth failure with TKIs
+  - Advanced phase
+- MDS
+  - Any child with MDS
+  - Adults “low risk” MDS: wait until progression
+- JMML
+  - Trying to define “better actors”, currently omit Noonan’s
+  - Careful with NF1 pts, they may have CNS tumors, peripheral nerve sheath tumors
+*** Lymphoma
+- NHL
+  - Relapsed Disease (attempt auto)
+    - For lymphoblastic treat similar to ALL (allo)
+    - Allo role for resistant or relapse after auto
+- HL
+  - Auto for relapsed/resistant disease
+  - Allo can salvage auto failures if disease responsive
+*** Solid tumors
+- Neuroblastoma
+  - Documented Improvement for High Risk CR1 patients
+- Brain Tumors
+  - Good data for use in <3yo to avoid XRT
+  - Data in medulloblastoma, CNS germ cell tumors for relapsed disease
+- Responsiveness, resectability, XRT important • OtherTumors
+  - Role for Ewings, relapsed HR Wilm’s, Rhabdo unsure
+  - Responsive HR germ cell tumors (relapsed) and HR retinoblastoma, some evidence of benefit with auto
+
 * TODO Transfusion medicine
 
 
