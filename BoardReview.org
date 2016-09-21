@@ -1554,6 +1554,125 @@ delayed surgery
 
 * TODO Transfusion medicine
 
+Cassandra Josephson, Emory
+** Collection and storage
+#+CAPTION: Blood component and derivative storage conditions and duration
+#+NAME: fig:bloodstorage.png
+[[./bloodstorage.png]]
+
+- RBC
+  - Preservative (Citrate, phosphate, dextrose)
+  - 21-35 days
+  - aging RBC in storage
+    - extracellular K+ concentration rises
+    - Extracellular free Hgb rises
+    - intracellular 2,3 DPG falls
+    - intracellular pH falls
+  - Because of K+, give neonates new blood (<5 days old)
+- Platelets
+  - Whole blood platelets = Random donor platelets (small amount=50ml)
+    - Spin down, so also need to leukoreduce
+  - Apheresis platelets = single donor platelets (300 ml)
+    - already leukoreduced
+  - stored at room temp
+  - only 5-day half-life
+- Plasma
+  - FFP contains *ALL* factors
+  - Croprecipitate contains *only figrinogen, FXIII, FVIII, vWF* (high molecular weight)
+    - Used really to increase fibrinogen
+  - apheresis platelet contains plasma
+- Granulocyte collection
+  - transfuse within 6-10 hours of collection
+  - Dex + G-CSF stimulation are helpful
+- Plasma-derived factor products
+  - Albumin is a blood product
+  - IVIG is a blood product
+** Type and crossmatch
+- Blood types
+#+CAPTION: Blood types and plasma antibodies
+#+NAME: tab:bloodtypes
+| type | incidence | plasma              | NOTE                                      |
+|------+-----------+---------------------+-------------------------------------------|
+| A    |       44% | anti-B igM          |                                           |
+| O    |       44% | Anti-A,B igG        | So, this is the UNIVERSAL DONOR of RBC    |
+| B    |        8% | Anti-A igM          |                                           |
+| AB   |        4% | No anti-A or anti-B | So, this is the UNIVERSAL DONOR of plasma |
+- Erythrocytes
+  - Type and crossmatch
+#+CAPTION: Patient RBCs are added to known plasma to see if there is lysis. Then, as a followup, patient plasma is added to known cells to confirm.
+#+NAME: fig:typeandcross
+[[./typeandcrossmatch.png]]
+  - Rh is the most immunogenic RBC minor antigen, 85% of pop is positive. If exposed, 80% will form an antibody (hence setup for pregnancy, etc.)
+- Platelets
+  - generally type only
+  - No Rh on platelets, but there is a little RBC in the platelets, so may want to think about 
+- Frozen plasma/Cryo
+  - 
+** Testing 
+- DAT
+  - Patient's RBCs mixed with anti-human IgG (Coombs)
+  - IgG reagent binds to IgG or complement on RBC and results in RBC agglutination
+  - DAT can be positive in:
+    - Alloimmunizatin if donated RBCs are coated with alloantibodies
+    - autoimmunization if the patients OWN RBC are coated with antibody
+- Screening (IAT)
+  - Screening is the process of adding patient plasma to a known set of cells
+  - Goal is to identify unforeseen reactions, such as to unusual minor antigens (besides ABO, D)
+- Type-and-screen vs type-and-crossmatch
+  - T & S
+    - Order should be placed when patient may need pRBC, but not needed immediately
+  - T & C
+    - Order when going to give blood, as part of unit is used for doing crossmatch
+** Indications
+- Whole Blood Transfusion Indications
+  - Neonatal exchange
+  - Often for autologous transfusion
+  - Fresh whole blood for cardiac bypass
+- Exchange for hemolytic disease of the newborn
+  - ABO mismatch
+  - Rh mismatch
+- pRBC
+  - 10-15 ml/kg raises Hgb by 1 unit
+  - autologous (bank blood prior to big surgery, etc)
+  - Directed donor (probably a bad idea for HSCT because of potential for rejection after HLA mismatch)
+- platelets
+  - platelet refractory state
+    - non-immune
+    - immune
+    - testing 15-60 minutes post-transfusion is best time to test for platelet refractory
+- FFP
+  - TTP
+  - when active bleeding and no specific concentrate available
+  - very rapid reversal of warfarin
+- Cryo
+  - Congenital or acquired hypofibrinogenemia
+  - Note that there is NO factor IX in cryo
+** Selection of blood products
+- Irradiation
+  - prevend TA-GVHD by rendering T-cells in product incapable of proliferating
+    - 
+  - Blood from relatives should be irradiated
+  - Needed for immunocompromised patients since they cannot eliminate donor lymphocytes
+- Leukoreduction
+  - try to reduce:
+    - febrile non-hemolytic transfusion reaction (from neutrophils)
+    - transfusion-transmitted CMV (from monocytes)
+    - HLA-alloimmunization (from neutrophils)
+- Washing
+  - wash proteins and K+ from pRBC and platelets
+** Transfusion reactions
+- Transfusion-related acute lung injury (TRALI)
+  - non-cardiogenic pulm edema starting 6-8 hours from transfusion
+  - indistinguisable from ARDS
+  - Only male plasma is given, as it is thought that antibodies from donor plasma reacting with patient lymphocytes is the cause
+  - May be fatal
+- TACO Transfusion-associated circulatory overload
+  - just fluit overload and associated S&S
+- Hemolytic
+  - Acute: IgM, intravascular--can kill you
+  - delayed: extravascular, IgG
+- Massive transfusion problems
+  - when giving large pRBC transfusion, be sure to give plasma as well to supply clotting factors, etc.
 
 * Syndromes
 ** Neutrophils
