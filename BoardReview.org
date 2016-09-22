@@ -896,7 +896,7 @@ Sung-Yun Pai, Boston Children's
 - Viral
   - CMV ganciclovir, foscarnet; leukoreduce or CMV- blood products for CMV- patients
   - VZV acyclovir
-**  Immune system review
+** Immune system review
 - T-cells
   - CD4 = MHC class II
   - CD8 = MHC class I
@@ -929,7 +929,7 @@ Sung-Yun Pai, Boston Children's
       - proliferation to antigen such as tetanus, candida
     - B-cell
       - Protein Ag such as tetanus
-      - Carbohydrate antigen such as pneumovax, blood group
+      - Carbohydrate antigen such as pneumovax, blood group, Isohemmoglutinins
 - IgG crosses placenta; IgM, IgA do not
 
 - *TAKE HOME POINTS*
@@ -964,7 +964,38 @@ Sung-Yun Pai, Boston Children's
   - IgG replacement
 - Note that HSCT can be done *without* conditioning or any GVHD prophylaxis
 *** XLA (X-linked agammaglobulinemia) Failure of B-cell development
-
+- Due to mutation in BTK (Bruton's tyrosine kinase)
+- There is a waning of maternal IgG at 2-6 months, so patients present at 6-9 months
+*** Wiskott-Aldrich
+- X-linked disorder (WAS or WASP gene)
+- Triad
+  - immunodeficiency
+  - eczema
+  - thrombocytopenia with small platelets
+- risk of bleeding, infection, autoimmunity, or lymphoma
+- Combined T&B defect
+  - T & B function will be affected
+- Curable by early well-matched HSCT
+*** Hyper-IgM
+- defects in IgM class switching
+- XLR leads to both B and T 
+- HSCT may be used
+*** X-linked lymphoproliferative (XLP)
+- XLR with SAP gene defect
+- Clinical 
+  - fulminant often fatal acute EBV
+  - lymphoproliferation usually non-clonal
+  - recurrent infections due to dys and hypo gammaglobulinemia
+*** CVID
+- a genetic immune defect characterized by significantly decreased levels of IgG, IgA and/or IgM with poor or absent antibody production, with exclusion of genetic or other causes of hypogammaglobulinemia
+- genetic defect unknown....
+- autoimmune disease (ITP, Evans, AIHA) common
+*** *TAKE HOME MESSAGE FOR non-SCID Immunodeficiencies*
+- Boys with XLA lack B cells but have normal T cell function
+- WAS is a triad of small low platelets, eczema, combined T and B cell dysfunction
+-  Boys with WAS are at risk for bleeding, infection, lymphoma, autoimmunity (i.e. these things can be elicited on family history)
+- A boy that is super sick with EBV--think XLP
+- Patients with antibody deficiencies (i.e. CVID) and ALPS frequently have autoimmune cytopenias
 
 * Lymphoma
 Paul Harker-Murray, Medical College of Wisconsin
@@ -1898,6 +1929,7 @@ Recurrent purulent infections with catalase positive bacteria and fungi involvin
   - Evaluation for fractures with trauma
   - Dental care
 
+
 * Molecular and cytogenetic findings
 | cytogenetic              | molecular                 | tumor or disease      | notes               |
 |--------------------------+---------------------------+-----------------------+---------------------|
@@ -1908,5 +1940,5 @@ Recurrent purulent infections with catalase positive bacteria and fungi involvin
 | 12q15-17 Ring chromosome |                           | parosteol osteosacoma | favorable prognosis |
 |                          | IL2RG, JAK3, IL7R         | SCID, T- B+           |                     |
 |                          | Artemis, ADA, RAG1, RAG2  | SCID, T- B-           |                     |
-|                          |                           |                       |                     |
+|                          | WAS (XLR)                 | Wiskott-Aldrich       |                     |
 
